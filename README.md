@@ -192,7 +192,7 @@ Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti beriku
         </fieldset>
     </form>
 ```
-<img src="/img/f1">
+<img src="/img/f1.png">
 
 9. Menabahkan Style pada Form
 Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
